@@ -1,3 +1,4 @@
 #GitHub practice code
 
 print("Hello World")
+print("Indiana Basketball is the best")
